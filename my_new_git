@@ -4,4 +4,5 @@
 echo my first creation of git clone
 echo i will print the sum of some selected numbers
 echo "$((7 + 7))"
-echo thanks for this opportunity:
+echo thanks for this opportunity
+echo this is from the new branch:
